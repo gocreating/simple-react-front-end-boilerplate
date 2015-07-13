@@ -29,6 +29,8 @@ $ cd <your-project>
 $ gulp
 ```
 
+If it doesn't open browser automatically, you can manually access `http://localhost:3000`
+
 ## Features
 
 ### Simple
