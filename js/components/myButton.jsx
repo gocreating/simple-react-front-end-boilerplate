@@ -4,7 +4,7 @@ module.exports = React.createClass({
   render: function() {
     return (
       <p>
-        <button>Click Meeeeeeeee\</button>
+        <button>Click Me</button>
       </p>
     );
   }

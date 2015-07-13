@@ -2,6 +2,10 @@
 
 A simple react starter boilerplate for learning pure front-end stack of react
 
+## Goal
+
+Easy to start learning react
+
 ## Usage
 
 ### Prequisiies
@@ -34,7 +38,3 @@ Does not support `FLUX` since this is for one who is new to react. Thus you can 
 ### Livereload
 
 Use `BrowserSync` as livereload tool
-
-## Goal
-
-Easy to start learning react

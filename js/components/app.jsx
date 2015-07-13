@@ -7,14 +7,6 @@ module.exports = React.createClass({
       <div>
         hello world
         <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
-        <MyButton />
       </div>
     );
   }
